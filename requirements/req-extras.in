@@ -1,0 +1,3 @@
+# extra runtime requirements that add optional functionality
+-c req-main.in
+# none

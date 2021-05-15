@@ -1,0 +1,4 @@
+# requirements for developing
+pip-compile-multi~=2.4.1
+pre-commit~=2.12.1
+pyclean~=2.0.0
