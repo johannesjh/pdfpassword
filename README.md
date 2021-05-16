@@ -2,6 +2,9 @@
 
 PDF Password allows to password-protect PDF documents.
 
+![animation](https://user-images.githubusercontent.com/581188/118400102-83d7b680-b660-11eb-87cc-af2347a0e692.gif)
+
+
 
 ## Usage
 
